@@ -2,26 +2,23 @@
 
 ## 🖼️ Screenshots
 
-### 🏠 Home
-<img src="assets/screenshots/home.png" alt="Home" width="200" />
-
-### 🔍 Search
-<img src="assets/screenshots/search.png" alt="Search" width="170" />
-
-### 🛒 Product Details
-<img src="assets/screenshots/products_details.png" alt="Details" width="170" />
-
-### 🔐 Sign In
-<img src="assets/screenshots/sign_in.png" alt="Sign In" width="170" />
-
-### 📝 Sign Up
-<img src="assets/screenshots/sign_up.png" alt="Sign Up" width="170" />
-
-### 🔄 Forgot Password
-<img src="assets/screenshots/forgot_password.png" alt="Forgot Password" width="170" />
-
-### 🚀 Onboarding
-<img src="assets/screenshots/onboarding.png" alt="Onboarding" width="170" />
+<table>
+  <tr>
+    <td><img src="assets/screenshots/home.png" alt="Home" width="160" /></td>
+    <td><img src="assets/screenshots/search.png" alt="Search" width="160" /></td>
+    <td><img src="assets/screenshots/prdoucts_details.png" alt="prdoucts_details" width="160" /></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/sign_in.png" alt="Sign In" width="160" /></td>
+    <td><img src="assets/screenshots/sign_up.png" alt="Sign Up" width="160" /></td>
+    <td><img src="assets/screenshots/forgot_password.png" alt="Forgot Password" width="160" /></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/onboarding.png" alt="Onboarding" width="160" /></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 **ecommerce_app** is a modern, scalable Flutter e-commerce application that showcases best practices in mobile app development.  
 It combines **Firebase** for authentication and database, **Cubit** for state management, and **REST APIs** for dynamic product content.
