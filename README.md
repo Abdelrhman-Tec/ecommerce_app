@@ -1,6 +1,7 @@
 # 🛒 ecommerce_app
 
 ## 🖼️ Screenshots
+<img src="assets/screenshots/search.png" alt="Search" width="400" />
 
 <table>
   <tr>
