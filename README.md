@@ -3,7 +3,7 @@
 ## 🖼️ Screenshots
 
 ### 🏠 Home
-<img src="assets/screenshots/home.png" alt="Home" width="400" />
+<img src="assets/screenshots/home.png" alt="Home" width="100" />
 
 ### 🔍 Search
 <img src="assets/screenshots/search.png" alt="Search" width="400" />
