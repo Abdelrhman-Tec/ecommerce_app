@@ -6,7 +6,7 @@
   <tr>
     <td><img src="assets/screenshots/home.png" alt="Home" width="160" /></td>
     <td><img src="assets/screenshots/search.png" alt="Search" width="160" /></td>
-    <td><img src="assets/screenshots/products_details.png" alt="Details" width="160" /></td>
+    <td><img src="assets/screenshots/prdoucts_details.png" alt="prdoucts_details" width="160" /></td>
   </tr>
   <tr>
     <td><img src="assets/screenshots/sign_in.png" alt="Sign In" width="160" /></td>
