@@ -8,6 +8,16 @@
     <td><img src="assets/screenshots/search.png" alt="Search" width="200" /></td>
     <td><img src="assets/screenshots/products_details.png" alt="Details" width="200" /></td>
   </tr>
+  <tr>
+    <td><img src="assets/screenshots/sign_in.png" alt="Sign In" width="200" /></td>
+    <td><img src="assets/screenshots/sign_up.png" alt="Sign Up" width="200" /></td>
+    <td><img src="assets/screenshots/forgot_password.png" alt="Forgot Password" width="200" /></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/onboarding.png" alt="Onboarding" width="200" /></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 **ecommerce_app** is a modern, scalable Flutter e-commerce application that showcases best practices in mobile app development.  
