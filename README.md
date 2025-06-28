@@ -3,25 +3,25 @@
 ## 🖼️ Screenshots
 
 ### 🏠 Home
-<img src="assets/screenshots/home.png" alt="Home" width="100" />
+<img src="assets/screenshots/home.png" alt="Home" width="200" />
 
 ### 🔍 Search
-<img src="assets/screenshots/search.png" alt="Search" width="400" />
+<img src="assets/screenshots/search.png" alt="Search" width="200" />
 
 ### 🛒 Product Details
-<img src="assets/screenshots/products_details.png" alt="Details" width="400" />
+<img src="assets/screenshots/products_details.png" alt="Details" width="200" />
 
 ### 🔐 Sign In
-<img src="assets/screenshots/sign_in.png" alt="Sign In" width="400" />
+<img src="assets/screenshots/sign_in.png" alt="Sign In" width="200" />
 
 ### 📝 Sign Up
-<img src="assets/screenshots/sign_up.png" alt="Sign Up" width="400" />
+<img src="assets/screenshots/sign_up.png" alt="Sign Up" width="200" />
 
 ### 🔄 Forgot Password
-<img src="assets/screenshots/forgot_password.png" alt="Forgot Password" width="400" />
+<img src="assets/screenshots/forgot_password.png" alt="Forgot Password" width="200" />
 
 ### 🚀 Onboarding
-<img src="assets/screenshots/onboarding.png" alt="Onboarding" width="400" />
+<img src="assets/screenshots/onboarding.png" alt="Onboarding" width="200" />
 
 **ecommerce_app** is a modern, scalable Flutter e-commerce application that showcases best practices in mobile app development.  
 It combines **Firebase** for authentication and database, **Cubit** for state management, and **REST APIs** for dynamic product content.
