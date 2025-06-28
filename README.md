@@ -1,29 +1,27 @@
 # 🛒 ecommerce_app
 
-
- ## 🖼️ Screenshots
+## 🖼️ Screenshots
 
 ### 🏠 Home
-![Home](assets/screenshots/home.png)
+<img src="assets/screenshots/home.png" alt="Home" width="400" />
 
 ### 🔍 Search
-![Search](assets/screenshots/search.png)
+<img src="assets/screenshots/search.png" alt="Search" width="400" />
 
 ### 🛒 Product Details
-![Details](assets/screenshots/products_details.png)
+<img src="assets/screenshots/products_details.png" alt="Details" width="400" />
 
 ### 🔐 Sign In
-![Sign In](assets/screenshots/sign_in.png)
+<img src="assets/screenshots/sign_in.png" alt="Sign In" width="400" />
 
 ### 📝 Sign Up
-![Sign Up](assets/screenshots/sign_up.png)
+<img src="assets/screenshots/sign_up.png" alt="Sign Up" width="400" />
 
 ### 🔄 Forgot Password
-![Forgot Password](assets/screenshots/forgot_password.png)
+<img src="assets/screenshots/forgot_password.png" alt="Forgot Password" width="400" />
 
 ### 🚀 Onboarding
-![Onboarding](assets/screenshots/onboarding.png)
-
+<img src="assets/screenshots/onboarding.png" alt="Onboarding" width="400" />
 
 **ecommerce_app** is a modern, scalable Flutter e-commerce application that showcases best practices in mobile app development.  
 It combines **Firebase** for authentication and database, **Cubit** for state management, and **REST APIs** for dynamic product content.
@@ -69,69 +67,3 @@ This API is free and perfect for demo/testing purposes.
 
 ## 📁 Project Structure
 
-```
-lib/
-├── core/            # Shared constants, services, widgets
-├── config/          # Theme & Firebase options
-├── data/            # Shared models & API handlers
-├── features/        # Modular features (auth, cart, products, orders, etc.)
-├── routes/          # App navigation
-├── main.dart
-└── app.dart
-```
-
----
-
-## ⚙️ Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Abdelrhman-tech/ecommerce_app.git
-cd ecommerce_app
-```
-
-### 2. Install Dependencies
-
-```bash
-flutter pub get
-```
-
-### 3. Setup Firebase
-
-- Go to [Firebase Console](https://console.firebase.google.com)
-- Create a new project
-- Enable **Email/Password Authentication**
-- Add Android & iOS apps and download:
-  - `google-services.json` → `android/app/`
-  - `GoogleService-Info.plist` → `ios/Runner/`
-- Run Firebase CLI:
-
-```bash
-dart pub global activate flutterfire_cli
-flutterfire configure
-```
-
-### 4. Run the App
-
-```bash
-flutter run
-```
-
----
-
-## 📸 Screenshots
-
-*Coming soon...*
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for review.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
