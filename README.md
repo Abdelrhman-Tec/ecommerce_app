@@ -65,5 +65,4 @@ This API is free and perfect for demo/testing purposes.
 
 ---
 
-## 📁 Project Structure
 
