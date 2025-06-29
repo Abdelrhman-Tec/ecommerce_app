@@ -1,5 +1,9 @@
 # 🛒 ecommerce_app
 
+## 🎥 App Demo (YouTube)
+Check out the full demo of the app on YouTube:  
+👉 [Watch the Video](https://www.youtube.com/watch?v=ud6hY3njbgI)
+
 ## 🖼️ Screenshots
 <img src="assets/screenshots/Cover.png" alt="Search" width="600" />
 
