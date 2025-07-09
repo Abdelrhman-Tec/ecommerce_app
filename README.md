@@ -4,34 +4,26 @@
 Check out the full demo of the app on YouTube:  
 👉 [Watch the Video](https://www.youtube.com/watch?v=ud6hY3njbgI)
 
-## 📸 Screenshots
+## 🖼️ Screenshots
+<img src="assets/screenshots/Cover.png" alt="Search" width="600" />
 
 <table>
   <tr>
-    <td><img src="screenshots/splash_screen.png" alt="Splash" width="160"/></td>
-    <td><img src="screenshots/onboarding.png" alt="Onboarding" width="160"/></td>
-    <td><img src="screenshots/sign_in.png" alt="Sign In" width="160"/></td>
+    <td><img src="assets/screenshots/home.png" alt="Home" width="160" /></td>
+    <td><img src="assets/screenshots/search.png" alt="Search" width="160" /></td>
+    <td><img src="assets/screenshots/prdoucts_details.png" alt="prdoucts_details" width="160" /></td>
   </tr>
   <tr>
-    <td><img src="screenshots/sign_up.png" alt="Sign Up" width="160"/></td>
-    <td><img src="screenshots/account_en.png" alt="Account EN" width="160"/></td>
-    <td><img src="screenshots/account_ar.png" alt="Account AR" width="160"/></td>
+    <td><img src="assets/screenshots/sign_in.png" alt="Sign In" width="160" /></td>
+    <td><img src="assets/screenshots/sign_up.png" alt="Sign Up" width="160" /></td>
+    <td><img src="assets/screenshots/forgot_password.png" alt="Forgot Password" width="160" /></td>
   </tr>
   <tr>
-    <td><img src="screenshots/home.png" alt="Home" width="160"/></td>
-    <td><img src="screenshots/view_all.png" alt="View All" width="160"/></td>
-    <td><img src="screenshots/product_details.png" alt="Product Details" width="160"/></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/search.png" alt="Search" width="160"/></td>
-    <td><img src="screenshots/saved_items.png" alt="Saved Items" width="160"/></td>
-    <td><img src="screenshots/cart.png" alt="Cart" width="160"/></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/check_out.png" alt="Checkout" width="160"/></td>
+    <td><img src="assets/screenshots/onboarding.png" alt="Onboarding" width="160" /></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
-
 🛠️ Installation & Run Locally
 
 Prerequisites:
