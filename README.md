@@ -37,7 +37,7 @@ Git
 Steps:
 # 1. Clone the repository
 $ git clone https://github.com/Abdelrhman-Tec/ecommerce_app.git
-$ cd ShopZen
+$ cd ecommerce_app
 
 # 2. Install dependencies
 $ flutter pub get
