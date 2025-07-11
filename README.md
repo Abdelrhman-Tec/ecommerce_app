@@ -36,7 +36,7 @@ Git
 
 Steps:
 # 1. Clone the repository
-$ git clone https://github.com/Abdelrhman-Tec/ShopZen.git
+$ git clone https://github.com/Abdelrhman-Tec/ecommerce_app.git
 $ cd ShopZen
 
 # 2. Install dependencies
